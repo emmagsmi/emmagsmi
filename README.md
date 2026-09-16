@@ -1,5 +1,12 @@
-## Hi there 👋
+##👋 Hi, I'm Emma Smith. 
 
+I am a second-year student at Bowling Green State University pursuing a B.S. in Software Engineering and a minor in AI and Society, with an expected graduation date of May 2028. I am currently seeking a Summer 2027 internship. 
+
+I am eager to apply my skills to real-world projects, learn from experienced professionals, and gain experience working in a collaborative environment. I am particularly interested in opportunities related to software engineering and emerging applications of artificial intelligence. 
+
+I have experience working with programming languages including C++, Python, HTML, and CSS, as well as tools such as Git, GitHub, GitLab, Linux, VS Code, and Microsoft Visual Studio.
+
+📫 Please contact me at emma.g.smith104@gmail.com
 <!--
 **emmagsmi/emmagsmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
