@@ -1,4 +1,4 @@
-##👋 Hi, I'm Emma Smith. 
+## 👋 Hi, I'm Emma Smith. 
 
 I am a second-year student at Bowling Green State University pursuing a B.S. in Software Engineering and a minor in AI and Society, with an expected graduation date of May 2028. I am currently seeking a Summer 2027 internship. 
 
